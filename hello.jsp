@@ -8,7 +8,7 @@
 </head>
 <body>
 <!-- declaration  -->
-<%!String msg="Hello World from Shalev now with jenkis\push v3"; %>
+<%!String msg="Hello World from Shalev now with jenkis\push v3 and working"; %>
 <!-- 1.	scriptlet  -->
 <br>
 <%="From expression   "+msg %>
